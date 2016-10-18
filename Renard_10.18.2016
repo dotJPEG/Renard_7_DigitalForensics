@@ -1,0 +1,4 @@
+find the image you want to recover a file from
+use xxd to read the hex version of it, and grep the output for head and tail of the file type you are searching for
+create a file starting at the beggining of one of the head locations, and ending at the corrosponding tail
+be happy that you did it
