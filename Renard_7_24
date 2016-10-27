@@ -1,0 +1,18 @@
+search the 17 partitions and get those secret messages
+1. the journy begins
+2. knowing ishalf the battle
+3. grep is great
+4. consider utopia
+
+5. sed -e "s/manypartitions.disk..[]*//g'|grep -o "^[^ ]*"
+6. for part in $(cat partitions.txt); do echo "$part*512" | bc >> beginhere.txt
+7. Are you winning? //prolly not
+
+8. so many mysteries so little time
+9. keep going keep going keep going keep going keep going keep going
+10. you can do it //9 times
+11. Don't give up!
+
+12. No slacking!
+13. You're a winner! 
+
